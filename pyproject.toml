@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pulp>=3.3.1",
+    "typing>=3.10.0.0",
 ]
